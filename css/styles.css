@@ -79,7 +79,11 @@ main .contenedor-img {
      margin-bottom: 40px;
 }
 
-
+.contenedor-texto .mascota {
+     font-weight: bold;
+     color: #c99806;
+     font-style: normal;
+}
 
 .contenedor-texto p {
      margin-bottom: 40px;
